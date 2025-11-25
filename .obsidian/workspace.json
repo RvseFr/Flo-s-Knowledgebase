@@ -11,12 +11,14 @@
             "id": "80ed426c59bdf960",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Schule/Deutsch/Der Ausbildungsnachweis draw.md"
+                "file": "Schule/Deutsch/Der Ausbildungsnachweis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Der Ausbildungsnachweis draw"
+              "icon": "lucide-file",
+              "title": "Der Ausbildungsnachweis"
             }
           }
         ]
@@ -187,15 +189,15 @@
   },
   "active": "80ed426c59bdf960",
   "lastOpenFiles": [
-    "Schule/Noten.md",
-    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
-    "Schule/Deutsch/Der Ausbildungsnachweis.md",
-    "Schule/Partizip I und II.png",
-    "Schule/Ausbildungsnachweis Partizip.png",
     "Partizip I und II.png",
     "Ausbildungsnachweis Partizip.png",
-    "Schule/Deutsch/Ausbildungsnachweis Partizip.png",
     "Schule/Deutsch/Partizip I und II.png",
+    "Schule/Deutsch/Ausbildungsnachweis Partizip.png",
+    "Schule/Deutsch/Der Ausbildungsnachweis.md",
+    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+    "Schule/Noten.md",
+    "Schule/Partizip I und II.png",
+    "Schule/Ausbildungsnachweis Partizip.png",
     "Schule/Excalidraw/Scripts/Downloaded",
     "Schule/Sozialkunde/Duales System.md",
     "Schule/LF4/Übersicht.canvas",
