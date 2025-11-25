@@ -173,7 +173,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New drawing": false,
-      "google-drive-sync:Push to Google Drive": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,13 +185,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e2c10005e69cd3f7",
+  "active": "80ed426c59bdf960",
   "lastOpenFiles": [
+    "Schule/Noten.md",
+    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
     "Schule/Deutsch/Der Ausbildungsnachweis.md",
     "Schule/Partizip I und II.png",
     "Schule/Ausbildungsnachweis Partizip.png",
     "Partizip I und II.png",
-    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
     "Ausbildungsnachweis Partizip.png",
     "Schule/Deutsch/Ausbildungsnachweis Partizip.png",
     "Schule/Deutsch/Partizip I und II.png",
@@ -221,7 +221,6 @@
     "Schule/Tabellenbuch Sanitär Heizung Klima.pdf",
     "Schule/Sozialkunde",
     "Schule/Rahmenlehrplan.pdf",
-    "Schule/Noten.md",
     "Schule/LF4",
     "Schule/LF3",
     "PICT0642.jpg"
