@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "c52c2d98d5a554a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "500c99cba0dd11c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ed426c59bdf960",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Schule/Deutsch/Der Ausbildungsnachweis draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Der Ausbildungsnachweis draw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e3fdc9aa06f19a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "571004b0369ba6d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c10005e69cd3f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f35a9bd5a337b3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "237ea409c3b39970",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11a77103b326b29a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0bf614dabcde58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18e15f0b7b234577",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Der Ausbildungsnachweis draw"
+            }
+          },
+          {
+            "id": "316b25b72638789b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Der Ausbildungsnachweis draw"
+            }
+          },
+          {
+            "id": "b3bc5faf1d72682f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8875e3df9cf9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "496c6ba6d83fc05c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Der Ausbildungsnachweis draw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e2c10005e69cd3f7",
+  "lastOpenFiles": [
+    "Schule/Deutsch/Der Ausbildungsnachweis.md",
+    "Schule/Partizip I und II.png",
+    "Schule/Ausbildungsnachweis Partizip.png",
+    "Partizip I und II.png",
+    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+    "Ausbildungsnachweis Partizip.png",
+    "Schule/Deutsch/Ausbildungsnachweis Partizip.png",
+    "Schule/Deutsch/Partizip I und II.png",
+    "Schule/Excalidraw/Scripts/Downloaded",
+    "Schule/Sozialkunde/Duales System.md",
+    "Schule/LF4/Übersicht.canvas",
+    "Schule/LF4/Grundlagen der Elektrotechnik.md",
+    "Schule/LF3/Formeln Umstellen (Übung).md",
+    "Schule/LF3/Berechnungen.md",
+    "Schule/LF2/Technische Unterlagen.md",
+    "Schule/LF2/Projektion von Bauteilen.md",
+    "Schule/LF2/Aufgabe - Technische Zeichnungen identifizieren.png",
+    "Schule/LF2/3. AB_Übung Bemaßung_SHK2.pdf",
+    "Schule/LF2/2. AB_Grundregeln der Bemaßung_SHK2.pdf",
+    "Schule/LF2/1. AB_Technische Zeichnungen_SHK2.pdf",
+    "Schule/LF1/Übung Formeln Umstellen.md",
+    "Schule/LF1/Übung Einheiten Umrechnen (Note).md",
+    "Schule/LF1/Zahlen umrechnen.md",
+    "Schule/LF1/Drawing 2025-09-30 08.02.07.excalidraw.md",
+    "Schule/Excalidraw/Scripts",
+    "Schule/Excalidraw/Drawing 2025-11-05 14.52.01.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-05 13.44.57.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-03 20.12.35.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-03 19.32.44.excalidraw.md",
+    "Schule/Ethik/Partnerinterview.md",
+    "Schule/Tabellenbuch Sanitär Heizung Klima.pdf",
+    "Schule/Sozialkunde",
+    "Schule/Rahmenlehrplan.pdf",
+    "Schule/Noten.md",
+    "Schule/LF4",
+    "Schule/LF3",
+    "PICT0642.jpg"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"6c4e98fda0e3e2f0","type":"text","text":"### LF4: Technische Systeme Instandhalten","x":-120,"y":-40,"width":320,"height":80,"color":"#ffffff"},
+		{"id":"b375cda5b468e0a6","type":"text","text":"**Elektrotechnik**","x":-300,"y":-200,"width":180,"height":60,"color":"1"},
+		{"id":"71bdbf292ad3ef27","type":"text","text":"**Steuer- u. Regelungstechnik**","x":-425,"y":40,"width":250,"height":60,"color":"5"},
+		{"id":"e1116dcc4d7e44dc","type":"text","text":"**Wartung, Inspektion**","x":60,"y":160,"width":250,"height":60,"color":"4"},
+		{"id":"d2c7cec158451b24","type":"text","text":"**EDV, Word, Powerpoint, Govie**","x":220,"y":-140,"width":250,"height":60,"color":"3"},
+		{"id":"e532eed8f8173fe6","type":"file","file":"LF4/Grundlagen der Elektrotechnik.md","x":-680,"y":-440,"width":325,"height":140,"color":"1"}
+	],
+	"edges":[
+		{"id":"5c57faff668dc30c","fromNode":"6c4e98fda0e3e2f0","fromSide":"top","toNode":"b375cda5b468e0a6","toSide":"bottom","color":"1"},
+		{"id":"21aabdfacb5d42e9","fromNode":"6c4e98fda0e3e2f0","fromSide":"right","toNode":"d2c7cec158451b24","toSide":"bottom","color":"3"},
+		{"id":"e6ec2c2155327107","fromNode":"6c4e98fda0e3e2f0","fromSide":"bottom","toNode":"e1116dcc4d7e44dc","toSide":"top","color":"4"},
+		{"id":"933b0f69f3b5ce8e","fromNode":"6c4e98fda0e3e2f0","fromSide":"bottom","toNode":"71bdbf292ad3ef27","toSide":"right","color":"5"},
+		{"id":"eb3fadeddd482538","fromNode":"b375cda5b468e0a6","fromSide":"top","toNode":"e532eed8f8173fe6","toSide":"right","color":"1"}
+	]
+}
