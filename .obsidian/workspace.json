@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coole Chat-GPT Antworten/EDV/Was ist ein Kernel.md",
+                "file": "Schule/LF1/Formeln umstellen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was ist ein Kernel"
+              "title": "Formeln umstellen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a30a40a3f27c29ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7393672602fdcb01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Schule/LF1/Zahlen umrechnen draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Zahlen umrechnen draw"
             }
           }
         ]
@@ -189,47 +207,49 @@
   },
   "active": "80ed426c59bdf960",
   "lastOpenFiles": [
+    "weitere Formeln umstellen.png",
+    "Schule/LF1/Zahlen Umrechnen.md",
+    "Schule/LF1/weitere Formeln umstellen.png",
+    "Schule/LF1/URI umstellen.png",
+    "Schule/Tabellenbuch Sanitär Heizung Klima.pdf",
+    "Schule/LF1/Formeln umstellen.md",
+    "Schule/LF1/weitereFormeln umstellen.png",
+    "Schule/LF1/URI umstellen 1.png",
+    "Schule/LF1/Übung Formeln Umstellen.png",
+    "Schule/LF1/Übung Einheiten Umrechnen (Note).md",
+    "Schule/LF1/Zahlen umrechnen draw.md",
+    "Schule/LF3/Formeln Umstellen (Übung).md",
+    "Schule/LF3/Berechnungen.md",
+    "Schule/LF2/Projektion von Bauteilen.md",
+    "Schule/Excalidraw/Drawing 2025-11-03 19.32.44.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-03 20.12.35.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-05 13.44.57.excalidraw.md",
+    "Schule/Excalidraw/Drawing 2025-11-05 14.52.01.excalidraw.md",
+    "Schule/Deutsch/Excalidraw",
+    "Coole Chat-GPT Antworten/EDV/Was ist ein Kernel.md",
     "Schule/Deutsch/Redstone display 1.jpg",
     "Coole Chat-GPT Antworten/Mechanik/Einbauarten für Wälz- oder Kugellager.md",
-    "Coole Chat-GPT Antworten/EDV/Was ist ein Kernel.md",
     "Coole Chat-GPT Antworten/EDV",
     "Coole Chat-GPT Antworten/Sprache und Wörter/Angizismen für Andere Sprachen.md",
     "Coole Chat-GPT Antworten/Mechanik",
     "Coole Chat-GPT Antworten/Sprache und Wörter",
-    "Schule/LF1/Übung Formeln Umstellen.png",
     "Coole Chat-GPT Antworten",
-    "Schule/LF1/Zahlen umrechnen.md",
     "Schule/LF1/Übung Formeln Umstellen.md",
     "Schule/LF1/Drawing 2025-09-30 08.02.07.excalidraw.md",
-    "Schule/LF1/Übung Einheiten Umrechnen (Note).md",
-    "Schule/Excalidraw/Drawing 2025-11-05 14.52.01.excalidraw.md",
-    "Schule/Excalidraw/Drawing 2025-11-05 13.44.57.excalidraw.md",
-    "Schule/Excalidraw/Drawing 2025-11-03 20.12.35.excalidraw.md",
-    "Schule/Excalidraw/Drawing 2025-11-03 19.32.44.excalidraw.md",
     "Schule/Ethik/Partnerinterview.md",
     "Schule/Deutsch/Der Ausbildungsnachweis.md",
     "Partizip I und II.png",
     "Ausbildungsnachweis Partizip.png",
     "Schule/Deutsch/Partizip I und II.png",
-    "Schule/Deutsch/Ausbildungsnachweis Partizip.png",
-    "Schule/Deutsch/Der Ausbildungsnachweis draw.md",
+    "Schule/Deutsch/Excalidraw/Der Ausbildungsnachweis draw.md",
     "Schule/Noten.md",
-    "Schule/Partizip I und II.png",
-    "Schule/Ausbildungsnachweis Partizip.png",
     "Schule/Excalidraw/Scripts/Downloaded",
     "Schule/Sozialkunde/Duales System.md",
     "Schule/LF4/Übersicht.canvas",
     "Schule/LF4/Grundlagen der Elektrotechnik.md",
-    "Schule/LF3/Formeln Umstellen (Übung).md",
-    "Schule/LF3/Berechnungen.md",
     "Schule/LF2/Technische Unterlagen.md",
-    "Schule/LF2/Projektion von Bauteilen.md",
-    "Schule/LF2/Aufgabe - Technische Zeichnungen identifizieren.png",
     "Schule/LF2/3. AB_Übung Bemaßung_SHK2.pdf",
     "Schule/LF2/2. AB_Grundregeln der Bemaßung_SHK2.pdf",
-    "Schule/LF2/1. AB_Technische Zeichnungen_SHK2.pdf",
-    "Schule/Excalidraw/Scripts",
-    "Schule/Tabellenbuch Sanitär Heizung Klima.pdf",
-    "PICT0642.jpg"
+    "Schule/LF2/1. AB_Technische Zeichnungen_SHK2.pdf"
   ]
 }
